@@ -4,4 +4,3 @@ def test_sample():
     """Remove this once real tests are added."""
     assert True
 
-    
